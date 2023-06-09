@@ -2100,8 +2100,6 @@
   "version" "1.2.0"
 
 "aproba@^1.1.2":
-  "integrity" "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
-  "resolved" "https://registry.npmjs.org/aproba/-/aproba-1.2.0.tgz"
   "version" "1.2.0"
 
 "aproba@^2.0.0":
@@ -5291,8 +5289,6 @@
     "map-cache" "^0.2.2"
 
 "from2@^1.3.0":
-  "integrity" "sha1-iEE7qqX5pZfP3pIh2GmGzTwGHf0="
-  "resolved" "https://registry.npmjs.org/from2/-/from2-1.3.0.tgz"
   "version" "1.3.0"
   dependencies:
     "inherits" "~2.0.1"
@@ -5518,7 +5514,7 @@
 
 "get-stream@^3.0.0":
   "integrity" "sha1-jpQ9E1jcN1VQVOy+LtsFqhdO3hQ="
-  "resolved" "http://registry.npmjs.org/get-stream/-/get-stream-3.0.0.tgz"
+  "resolved" "https://registry.npmjs.org/get-stream/-/get-stream-3.0.0.tgz"
   "version" "3.0.0"
 
 "get-stream@^4.0.0", "get-stream@^4.1.0":
@@ -8469,32 +8465,24 @@
     "minipass" "^3.0.0"
 
 "minipass@^2.3.5":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmjs.org/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
     "yallist" "^3.0.0"
 
 "minipass@^2.6.0":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmjs.org/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
     "yallist" "^3.0.0"
 
 "minipass@^2.8.6":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmjs.org/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
     "yallist" "^3.0.0"
 
 "minipass@^2.9.0":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmjs.org/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
@@ -10392,8 +10380,6 @@
     "util-deprecate" "~1.0.1"
 
 "readable-stream@^2.0.4":
-  "integrity" "sha512-tQtKA9WIAhBF3+VLAseyMqZeBjW0AHJoxOtYqSUZNJxauErmLbVm2FW1y+J/YA9dUrAC39ITejlZWhVIwawkKw=="
-  "resolved" "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz"
   "version" "2.3.6"
   dependencies:
     "core-util-is" "~1.0.0"
@@ -11007,8 +10993,6 @@
   "version" "5.2.1"
 
 "safe-buffer@~5.2.0":
-  "integrity" "sha512-fZEwUGbVl7kouZs1jCdMLdt95hdIv0ZeHg6L7qPeciMZhZ+/gdesW4wgTARkrFWEpspjEATAzUGPG8N2jJiwbg=="
-  "resolved" "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.0.tgz"
   "version" "5.2.0"
 
 "safe-json-parse@4.0.0":
@@ -11815,8 +11799,6 @@
     "strip-ansi" "^4.0.0"
 
 "string-width@^1.0.2":
-  "integrity" "sha1-EYvfW4zcUaKn5w0hHgfisLmxB9M="
-  "resolved" "https://registry.npmjs.org/string-width/-/string-width-1.0.2.tgz"
   "version" "1.0.2"
   dependencies:
     "code-point-at" "^1.0.0"
