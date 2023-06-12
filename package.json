@@ -53,7 +53,6 @@
     "commit": "git-cz",
     "semantic-release": "semantic-release",
     "semantic-release-prepare": "ts-node tools/semantic-release-prepare",
-    "precommit": "lint-staged",
     "travis-deploy-once": "travis-deploy-once",
     "copyAssets": "copyfiles -u 1 src/fonts/** dist && copyfiles -u 1 src/images/** dist",
     "copyPackages": "copyfiles README.md dist && copyfiles -u 1 packages/**/**/* dist && copyfiles -u 1 packages/**/* dist && copyfiles -u 1 packages/* dist",
@@ -65,7 +64,6 @@
     "copyAssetsToSite": "copyfiles -f dist/images/** site/static/images && copyfiles -f dist/fonts/** site/static/fonts",
     "copyJsToSite": "copyfiles -f dist/*.js site/assets/js && copyfiles -u 1 dist/plugins/**/* site/assets/js",
     "copyScss": "copyfiles -f -u 1 src/scss/** dist/scss && copyfiles -u 2 src/scss/**/* dist/scss",
-    "prepush": "npm run test:prod && npm run build",
     "commitmsg": "commitlint -E HUSKY_GIT_PARAMS",
     "buildLibraries": "ts-node tools/build-libraries",
     "publishToNpm": "ts-node tools/npm-publish"
